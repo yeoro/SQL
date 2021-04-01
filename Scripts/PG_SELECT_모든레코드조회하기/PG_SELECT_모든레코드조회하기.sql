@@ -1,2 +1,1 @@
 SELECT * from animal_ins;
-
